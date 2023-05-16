@@ -1,3 +1,0 @@
- const a = 15.75;
-    const b = 5.5;
-    console.log(a/b);
