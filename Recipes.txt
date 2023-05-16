@@ -10,4 +10,13 @@ const person2 = {
 }
 // Return "John Doe":
 person1.fullName.call(person2);
-//done
+
+next code
+const num1 = 5;
+const num2 = 3;
+
+// add two numbers
+const sum = num1 + num2;
+
+// display the sum
+console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
